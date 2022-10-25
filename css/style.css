@@ -1,0 +1,28 @@
+.bg-img1 {
+  /* background-color: rgba(214, 236, 14, 0.3); */
+  background-size: cover;
+  /* background-image: url(abc.jpg); */
+}
+.bg-img2 {
+  /* background-color: rgba(192, 43, 43, 0.3); */
+  background-size: cover;
+  /* background-image: url(xyz.jpg); */
+}
+.bg-img3 {
+  /* background-color: rgba(37, 201, 58, 0.3); */
+  background-size: cover;
+  /* background-image: url(acDyFo20.jpg); */
+}
+body {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.slide {
+  width: 100%;
+  height: 100%;
+}
+
+ul {
+  list-style: none;
+}
